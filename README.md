@@ -111,8 +111,4 @@ npm start
 
 ---
 
-### 🎯 **Next Steps:**
-1. **Upload this project to GitHub.**
-2. **Deploy Backend on Render & Frontend on Vercel.**
-3. **Live Room Finder App is ready!** 🚀
-4. 
+
